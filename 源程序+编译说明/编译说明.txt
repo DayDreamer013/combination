@@ -1,0 +1,3 @@
+环境：visual studio 2019
+
+具体操作在"MFCApplication1Dlg.cpp"中
